@@ -1,0 +1,7 @@
+t=("tuple", False , 2.3, 3)
+print(t)
+h=(3,2,3,4,5,6,7)
+print(h + (3 ,))
+print(h.count(3))
+i=(3,5,6,7,8,9)
+print(i[:-1])
